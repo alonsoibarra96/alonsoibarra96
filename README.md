@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alonsoibarra96
 - 👀 I’m interested in chess, music, books and business
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on emerging start-ups
 - 📫 How to reach me alonsoibarra96@outlook.com
 
